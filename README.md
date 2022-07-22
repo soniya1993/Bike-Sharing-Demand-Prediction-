@@ -50,7 +50,10 @@ image
 
 ● Model Creation: Finally in this part we created the various models. These various models are being analysed and we tried to study various models so as to get the best performing model for our project.
 
-. Metrics Evaluation
+![image](https://user-images.githubusercontent.com/97510475/180387453-05d147b9-03f1-4ae2-a177-ae34326c927f.png)
+
+
+# Metrics Evaluation
 
 To evaluate our model and to obtain the accuracy and error rate of our models before and after hyperparameter tuning. We used some metric evaluation technique. They are:
 
