@@ -36,9 +36,6 @@ Attribute Information:
 • Holiday - Holiday/No holiday
 
 • Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
-# Data Wrangling
-
-After loading our dataset, we observed that our dataset has 381109 rows and 12 columns. We applied a null check and found that our data set has no null values. Further, we treated the outliers in our dataset using a quantile method. 
 
 
 # Data Pipeline:
@@ -47,9 +44,7 @@ After loading our dataset, we observed that our dataset has 381109 rows and 12 c
 
 ● Data Processing: In this part we went through each attributes and encoded the categorical features.
 
-● Model Creation: Finally in this part we created the various models. These various models are being analysed and we tried to study various models so as to get the best performing model for our project.
-
-![image](https://user-images.githubusercontent.com/97510475/180387453-05d147b9-03f1-4ae2-a177-ae34326c927f.png)
+● Model Creation: Finally in this part we created the various models. These various models are being analysed and we tried to study various models so as to get the 
 
 # Model Fitting
 
@@ -57,24 +52,14 @@ Decision Tree
 
 Random Forest
 
-K Nearest Neighbour
+Linear Regression
+
+Lasso Regression
 
 Logistic Regression
 # Metrics Evaluation
 
-To evaluate our model and to obtain the accuracy and error rate of our models before and after hyperparameter tuning. We used some metric evaluation technique. They are:
 
-i. Confusion Matrix
-
-ii. Accuracy
-
-iii. Precision
-
-iv. Recall
-
-v. F1-Score
-
-vi. ROC-AUC Score
 
 # Observations:
 
