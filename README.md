@@ -69,7 +69,8 @@ v. F1-Score
 
 vi. ROC-AUC Score
 
-Observations:
+# Observations:
+
 ● Observation 1: In the Model Evaluation Matrices table, Linear Regression, is not giving great results.
 
 ● Observation 2: Random forest performed good in terms of RSquare as compared to any other model.
