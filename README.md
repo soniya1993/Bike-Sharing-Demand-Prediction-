@@ -45,6 +45,17 @@ Attribute Information:
 
 ● Model Creation: Finally in this part we created the various models. These various models are being analysed and we tried to study various models so as to get the best performing model for our project.
 
+. Metrics Evaluation
+To evaluate our model and to obtain the accuracy and error rate of our models before and after hyperparameter tuning. We used some metric evaluation technique. They are:
+
+i. Confusion Matrix
+ii. Accuracy
+iii. Precision
+iv. Recall
+v. F1-Score
+vi. ROC-AUC Score
+vii. Log Loss
+
 Observations:
 ● Observation 1: In the Model Evaluation Matrices table, Linear Regression, is not giving great results.
 
