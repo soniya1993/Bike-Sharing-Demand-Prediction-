@@ -57,8 +57,6 @@ Linear Regression
 Lasso Regression
 
 Logistic Regression
-# Metrics Evaluation
-
 
 
 # Observations:
